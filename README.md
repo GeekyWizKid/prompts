@@ -2,6 +2,9 @@
 
 欢迎来到这个特别的仓库，这里为您提供丰富的互动提示和模拟体验，旨在启发您的思维并开启新的探索之旅。
 
+## 绘图成果
+[img](https://i.imgur.com/QXnojw0.jpg)
+
 ## 特色
 
 - **MAGI 决策模拟**：体验EVA中的MAGI系统的决策魅力，三种独特的人格 - MELCHIOR-1、BALTHASAR-2和CASPER-3 - 为您提供深入的见解。[点击探索](https://github.com/GeekyWizKid/prompts/blob/main/二次元/MAGI-EVA.md)。
