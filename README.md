@@ -3,7 +3,7 @@
 欢迎来到这个特别的仓库，这里为您提供丰富的互动提示和模拟体验，旨在启发您的思维并开启新的探索之旅。
 
 ## 绘图成果
-[img](https://i.imgur.com/QXnojw0.jpg)
+![img](https://i.imgur.com/QXnojw0.jpg)
 
 ## 特色
 
